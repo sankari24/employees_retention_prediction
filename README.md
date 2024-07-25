@@ -1,4 +1,4 @@
-# reporton-employees-retention-prediction
+# Report-On-Employees-Retention-Prediction
 ### use google collab to open the project.ipynb
 This project is about a report on employees retention using machine learning.
 
